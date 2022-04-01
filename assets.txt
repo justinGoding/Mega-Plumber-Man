@@ -1,0 +1,49 @@
+Texture		TexStand	images/megaman/stand64.png
+Texture		TexRun		images/megaman/run64.png
+Texture		TexAir		images/megaman/air64.png
+Texture		TexBuster	images/megaman/buster.png
+Texture 	TexExplode	images/misc/explosion96.png
+Texture 	TexCoin		images/mario/coinspin.png
+Texture 	TexBrick	images/mario/brick.png
+Texture 	TexQ		images/mario/qfade.png
+Texture		TexQBounce	images/mario/question_bounce.png
+Texture 	TexQ2		images/mario/question2.png
+Texture 	TexPipeS	images/mario/pipesmall.png
+Texture 	TexPipeT	images/mario/pipetall.png
+Texture 	TexCloudB	images/mario/cloudbig.png
+Texture 	TexCloudS	images/mario/cloudsmall.png
+Texture 	TexBush		images/mario/bush.png
+Texture 	TexHill		images/mario/hill.png
+Texture 	TexGround	images/mario/ground.png
+Texture 	TexBlock	images/mario/block.png
+Texture 	TexPole		images/mario/flagpole.png
+Texture 	TexPoleTop	images/mario/flagtop.png
+Texture 	TexFlag		images/mario/flag.png
+Texture		TexGoomba	images/mario/goomba_walk.png
+Texture		TexGoomSquash	images/mario/goomba_squash.png
+Animation 	Stand		TexStand	1	0
+Animation 	Run		TexRun		4	10
+Animation 	Air		TexAir		1	0
+Animation 	Buster		TexBuster	1	0
+Animation 	Explosion	TexExplode	5	10
+Animation 	Coin		TexCoin		4	10
+Animation 	Question	TexQ		4	15
+Animation 	Brick		TexBrick	1	0
+Animation	Quest_Bounce	TexQBounce	1	10
+Animation 	Question2	TexQ2		1	0
+Animation 	PipeTall	TexPipeT	1	0
+Animation 	PipeSmall	TexPipeS	1	0
+Animation 	CloudBig	TexCloudB	1	0
+Animation 	CloudSmall	TexCloudS	1	0
+Animation 	Bush		TexBush		1	0
+Animation 	Hill		TexHill		1	0
+Animation 	Ground		TexGround	1	0
+Animation 	Block		TexBlock	1	0
+Animation 	Flag		TexFlag		1	0
+Animation 	Pole		TexPole		1	0
+Animation 	PoleTop		TexPoleTop	1	0
+Animation	Goomba		TexGoomba	4	10
+Animation	GoombaSquash	TexGoomSquash	1	10
+Font		Arial		fonts/arial.ttf
+Font 		Mario 		fonts/mario.ttf
+Font 		Megaman 	fonts/megaman.ttf
